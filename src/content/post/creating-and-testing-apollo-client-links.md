@@ -217,4 +217,4 @@ Want to try it out yourself? [You can view all the code here](https://gist.githu
 
 ---
 
-Cover Photo by <a href="https://unsplash.com/@zynpayln?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aylin Çobanoğlu</a> on <a href="https://unsplash.com/photos/NAEZ06wneeI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+[Originally posted on DEV Community](https://dev.to/companycam/creating-and-testing-apollo-client-links-cca)
